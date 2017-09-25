@@ -75,4 +75,5 @@ function delete_custom_terms($post_id) {
     }
   }
 }
+
 ?>
